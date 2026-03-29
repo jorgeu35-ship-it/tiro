@@ -1,1 +1,0 @@
-Repack de la app. Usa streamlit run app.py
